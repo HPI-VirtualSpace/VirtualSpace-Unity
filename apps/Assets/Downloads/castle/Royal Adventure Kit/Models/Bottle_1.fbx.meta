@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 145d72d5e11683c4ca1430492139a80c
+timeCreated: 1506747738
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Banner
+    100004: Banner_Mounting
+    100006: Book
+    100008: Book_Page.001
+    100010: Book_Page.002
+    100012: Book_Page.003
+    100014: Book_Page.004
+    100016: Book_Page.004_end
+    100018: Book_Pages
+    100020: Book_Rig
+    100022: Book_Top
+    100024: Book_Top 1
+    100026: Book_Top_end
+    100028: Bottle_1
+    100030: Bottle_2
+    100032: Lantern
+    100034: Lantern_Handle
+    100036: Pan
+    100038: Plane
+    100040: Pot
+    100042: Potion
+    100044: Potion_Empty
+    100046: Rock_1
+    100048: Rock_2
+    100050: Rock_3
+    100052: Rock_4
+    100054: Rock_5
+    100056: Rock_6
+    100058: Rock_7
+    100060: Rock_8
+    100062: Root
+    100064: Root_end
+    100066: Torch
+    100068: Tree_Log
+    400000: //RootNode
+    400002: Banner
+    400004: Banner_Mounting
+    400006: Book
+    400008: Book_Page.001
+    400010: Book_Page.002
+    400012: Book_Page.003
+    400014: Book_Page.004
+    400016: Book_Page.004_end
+    400018: Book_Pages
+    400020: Book_Rig
+    400022: Book_Top
+    400024: Book_Top 1
+    400026: Book_Top_end
+    400028: Bottle_1
+    400030: Bottle_2
+    400032: Lantern
+    400034: Lantern_Handle
+    400036: Pan
+    400038: Plane
+    400040: Pot
+    400042: Potion
+    400044: Potion_Empty
+    400046: Rock_1
+    400048: Rock_2
+    400050: Rock_3
+    400052: Rock_4
+    400054: Rock_5
+    400056: Rock_6
+    400058: Rock_7
+    400060: Rock_8
+    400062: Root
+    400064: Root_end
+    400066: Torch
+    400068: Tree_Log
+    2300000: //RootNode
+    2300002: Banner
+    2300004: Banner_Mounting
+    2300006: Book
+    2300008: Book_Pages
+    2300010: Book_Top
+    2300012: Bottle_1
+    2300014: Bottle_2
+    2300016: Lantern
+    2300018: Lantern_Handle
+    2300020: Pan
+    2300022: Plane
+    2300024: Pot
+    2300026: Potion
+    2300028: Potion_Empty
+    2300030: Rock_1
+    2300032: Rock_2
+    2300034: Rock_3
+    2300036: Rock_4
+    2300038: Rock_5
+    2300040: Rock_6
+    2300042: Rock_7
+    2300044: Rock_8
+    2300046: Torch
+    2300048: Tree_Log
+    3300000: //RootNode
+    3300002: Banner
+    3300004: Banner_Mounting
+    3300006: Book
+    3300008: Book_Pages
+    3300010: Book_Top
+    3300012: Bottle_1
+    3300014: Bottle_2
+    3300016: Lantern
+    3300018: Lantern_Handle
+    3300020: Pan
+    3300022: Plane
+    3300024: Pot
+    3300026: Potion
+    3300028: Potion_Empty
+    3300030: Rock_1
+    3300032: Rock_2
+    3300034: Rock_3
+    3300036: Rock_4
+    3300038: Rock_5
+    3300040: Rock_6
+    3300042: Rock_7
+    3300044: Rock_8
+    3300046: Torch
+    3300048: Tree_Log
+    4300000: Bottle_1
+    4300002: Tree_Log
+    4300004: Book_Pages
+    4300006: Book_Top
+    4300008: Book
+    4300010: Bottle_2
+    4300012: Potion_Empty
+    4300014: Potion
+    4300016: Pot
+    4300018: Pan
+    4300020: Banner
+    4300022: Plane
+    4300024: Banner_Mounting
+    4300026: Torch
+    4300028: Lantern_Handle
+    4300030: Lantern
+    4300032: Rock_8
+    4300034: Rock_7
+    4300036: Rock_6
+    4300038: Rock_5
+    4300040: Rock_4
+    4300042: Rock_3
+    4300044: Rock_2
+    4300046: Rock_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

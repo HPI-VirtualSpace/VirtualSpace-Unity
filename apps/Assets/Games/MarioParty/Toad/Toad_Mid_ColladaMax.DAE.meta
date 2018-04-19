@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 30059d1a9b1ffec479f5fe6fbd4fb320
+timeCreated: 1509966715
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: eff_head
+    100002: eff_hip
+    100004: kasa_jnt
+    100006: kosi_jnt
+    100008: kubi_jnt
+    100010: L_asi_jnt
+    100012: L_hiji_jnt
+    100014: L_kata
+    100016: L_momo_jnt
+    100018: L_sune_jnt
+    100020: L_te_jnt
+    100022: L_tekubi
+    100024: L_tuma_jnt
+    100026: L_ude_jnt
+    100028: L_yubi00a_jnt
+    100030: L_yubi01a_jnt
+    100032: L_yubi02a_jnt
+    100034: mune_jnt
+    100036: R_asi_jnt
+    100038: R_hiji_jnt
+    100040: R_kata
+    100042: R_momo_jnt
+    100044: R_sune_jnt
+    100046: R_te_jnt
+    100048: R_tekubi
+    100050: R_tuma_jnt
+    100052: R_ude_jnt
+    100054: R_yubi00a_jnt
+    100056: R_yubi01a_jnt
+    100058: R_yubi02a_jnt
+    100060: root
+    100062: Toad
+    100064: //RootNode
+    100066: trans
+    400000: eff_head
+    400002: eff_hip
+    400004: kasa_jnt
+    400006: kosi_jnt
+    400008: kubi_jnt
+    400010: L_asi_jnt
+    400012: L_hiji_jnt
+    400014: L_kata
+    400016: L_momo_jnt
+    400018: L_sune_jnt
+    400020: L_te_jnt
+    400022: L_tekubi
+    400024: L_tuma_jnt
+    400026: L_ude_jnt
+    400028: L_yubi00a_jnt
+    400030: L_yubi01a_jnt
+    400032: L_yubi02a_jnt
+    400034: mune_jnt
+    400036: R_asi_jnt
+    400038: R_hiji_jnt
+    400040: R_kata
+    400042: R_momo_jnt
+    400044: R_sune_jnt
+    400046: R_te_jnt
+    400048: R_tekubi
+    400050: R_tuma_jnt
+    400052: R_ude_jnt
+    400054: R_yubi00a_jnt
+    400056: R_yubi01a_jnt
+    400058: R_yubi02a_jnt
+    400060: root
+    400062: Toad
+    400064: //RootNode
+    400066: trans
+    4300000: Toad
+    9500000: //RootNode
+    13700000: Toad
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

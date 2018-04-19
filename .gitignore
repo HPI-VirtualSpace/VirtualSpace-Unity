@@ -1,0 +1,9 @@
+*.stackdump
+*ConnectionKeepAlivePollError*.txt
+apps/CompleteIncomingItemTaskError*.txt
+apps/Assets/Scripts/VirtualSpace/CommonNew
+apps/Assets/Scripts/VirtualSpace/SharedNew
+
+*.apk
+
+apps/Assets/Plugins/RootMotion/FinalIK/_Integration/

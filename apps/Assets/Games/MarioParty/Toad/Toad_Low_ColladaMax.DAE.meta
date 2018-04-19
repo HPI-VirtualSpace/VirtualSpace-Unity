@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 0141ad3c5a36b034f9689b07f3b3cd5d
+timeCreated: 1509966715
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: kasa_jnt
+    100002: kosi_jnt
+    100004: kubi_jnt
+    100006: L_asi_jnt
+    100008: L_hiji_jnt
+    100010: L_momo_jnt
+    100012: L_sune_jnt
+    100014: L_te_jnt
+    100016: L_tuma_jnt
+    100018: L_ude_jnt
+    100020: mune_jnt
+    100022: R_asi_jnt
+    100024: R_hiji_jnt
+    100026: R_momo_jnt
+    100028: R_sune_jnt
+    100030: R_te_jnt
+    100032: R_tuma_jnt
+    100034: R_ude_jnt
+    100036: root
+    100038: Toad
+    100040: //RootNode
+    100042: trans
+    400000: kasa_jnt
+    400002: kosi_jnt
+    400004: kubi_jnt
+    400006: L_asi_jnt
+    400008: L_hiji_jnt
+    400010: L_momo_jnt
+    400012: L_sune_jnt
+    400014: L_te_jnt
+    400016: L_tuma_jnt
+    400018: L_ude_jnt
+    400020: mune_jnt
+    400022: R_asi_jnt
+    400024: R_hiji_jnt
+    400026: R_momo_jnt
+    400028: R_sune_jnt
+    400030: R_te_jnt
+    400032: R_tuma_jnt
+    400034: R_ude_jnt
+    400036: root
+    400038: Toad
+    400040: //RootNode
+    400042: trans
+    4300000: Toad
+    9500000: //RootNode
+    13700000: Toad
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

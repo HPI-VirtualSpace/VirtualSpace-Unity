@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 2c3c30f98e65cde408b3c37a1495ebea
+timeCreated: 1506491299
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Wooden_Crate_Broken.038
+    100002: Wooden_Crate_Broken.039
+    100004: Wooden_Crate_Broken.040
+    100006: Wooden_Crate_Broken.041
+    100008: Wooden_Crate_Broken.042
+    100010: Wooden_Crate_Broken.043
+    100012: Wooden_Crate_Broken.044
+    100014: Wooden_Crate_Broken.045
+    100016: Wooden_Crate_Broken.046
+    100018: Wooden_Crate_Broken.047
+    100020: Wooden_Crate_Broken.048
+    100022: Wooden_Crate_Broken.049
+    100024: Wooden_Crate_Broken.050
+    100026: Wooden_Crate_Broken.051
+    100028: Wooden_Crate_Broken.052
+    100030: Wooden_Crate_Broken.053
+    100032: Wooden_Crate_Broken.054
+    100034: Wooden_Crate_Broken.055
+    100036: Wooden_Crate_Broken.056
+    100038: Wooden_Crate_Broken.057
+    100040: Wooden_Crate_Broken.058
+    100042: Wooden_Crate_Broken.059
+    100044: Wooden_Crate_Broken.060
+    100046: Wooden_Crate_Broken.061
+    100048: Wooden_Crate_Broken.062
+    100050: Wooden_Crate_Broken.063
+    100052: Wooden_Crate_Broken.064
+    100054: Wooden_Crate_Broken.065
+    100056: Wooden_Crate_Broken.066
+    100058: Wooden_Crate_Broken.067
+    100060: Wooden_Crate_Broken.073
+    100062: Wooden_Crate_Broken.074
+    100064: Wooden_Crate_Broken.075
+    100066: //RootNode
+    400000: Wooden_Crate_Broken.038
+    400002: Wooden_Crate_Broken.039
+    400004: Wooden_Crate_Broken.040
+    400006: Wooden_Crate_Broken.041
+    400008: Wooden_Crate_Broken.042
+    400010: Wooden_Crate_Broken.043
+    400012: Wooden_Crate_Broken.044
+    400014: Wooden_Crate_Broken.045
+    400016: Wooden_Crate_Broken.046
+    400018: Wooden_Crate_Broken.047
+    400020: Wooden_Crate_Broken.048
+    400022: Wooden_Crate_Broken.049
+    400024: Wooden_Crate_Broken.050
+    400026: Wooden_Crate_Broken.051
+    400028: Wooden_Crate_Broken.052
+    400030: Wooden_Crate_Broken.053
+    400032: Wooden_Crate_Broken.054
+    400034: Wooden_Crate_Broken.055
+    400036: Wooden_Crate_Broken.056
+    400038: Wooden_Crate_Broken.057
+    400040: Wooden_Crate_Broken.058
+    400042: Wooden_Crate_Broken.059
+    400044: Wooden_Crate_Broken.060
+    400046: Wooden_Crate_Broken.061
+    400048: Wooden_Crate_Broken.062
+    400050: Wooden_Crate_Broken.063
+    400052: Wooden_Crate_Broken.064
+    400054: Wooden_Crate_Broken.065
+    400056: Wooden_Crate_Broken.066
+    400058: Wooden_Crate_Broken.067
+    400060: Wooden_Crate_Broken.073
+    400062: Wooden_Crate_Broken.074
+    400064: Wooden_Crate_Broken.075
+    400066: //RootNode
+    2300000: Wooden_Crate_Broken.038
+    2300002: Wooden_Crate_Broken.039
+    2300004: Wooden_Crate_Broken.040
+    2300006: Wooden_Crate_Broken.041
+    2300008: Wooden_Crate_Broken.042
+    2300010: Wooden_Crate_Broken.043
+    2300012: Wooden_Crate_Broken.044
+    2300014: Wooden_Crate_Broken.045
+    2300016: Wooden_Crate_Broken.046
+    2300018: Wooden_Crate_Broken.047
+    2300020: Wooden_Crate_Broken.048
+    2300022: Wooden_Crate_Broken.049
+    2300024: Wooden_Crate_Broken.050
+    2300026: Wooden_Crate_Broken.051
+    2300028: Wooden_Crate_Broken.052
+    2300030: Wooden_Crate_Broken.053
+    2300032: Wooden_Crate_Broken.054
+    2300034: Wooden_Crate_Broken.055
+    2300036: Wooden_Crate_Broken.056
+    2300038: Wooden_Crate_Broken.057
+    2300040: Wooden_Crate_Broken.058
+    2300042: Wooden_Crate_Broken.059
+    2300044: Wooden_Crate_Broken.060
+    2300046: Wooden_Crate_Broken.061
+    2300048: Wooden_Crate_Broken.062
+    2300050: Wooden_Crate_Broken.063
+    2300052: Wooden_Crate_Broken.064
+    2300054: Wooden_Crate_Broken.065
+    2300056: Wooden_Crate_Broken.066
+    2300058: Wooden_Crate_Broken.067
+    2300060: Wooden_Crate_Broken.073
+    2300062: Wooden_Crate_Broken.074
+    2300064: Wooden_Crate_Broken.075
+    3300000: Wooden_Crate_Broken.038
+    3300002: Wooden_Crate_Broken.039
+    3300004: Wooden_Crate_Broken.040
+    3300006: Wooden_Crate_Broken.041
+    3300008: Wooden_Crate_Broken.042
+    3300010: Wooden_Crate_Broken.043
+    3300012: Wooden_Crate_Broken.044
+    3300014: Wooden_Crate_Broken.045
+    3300016: Wooden_Crate_Broken.046
+    3300018: Wooden_Crate_Broken.047
+    3300020: Wooden_Crate_Broken.048
+    3300022: Wooden_Crate_Broken.049
+    3300024: Wooden_Crate_Broken.050
+    3300026: Wooden_Crate_Broken.051
+    3300028: Wooden_Crate_Broken.052
+    3300030: Wooden_Crate_Broken.053
+    3300032: Wooden_Crate_Broken.054
+    3300034: Wooden_Crate_Broken.055
+    3300036: Wooden_Crate_Broken.056
+    3300038: Wooden_Crate_Broken.057
+    3300040: Wooden_Crate_Broken.058
+    3300042: Wooden_Crate_Broken.059
+    3300044: Wooden_Crate_Broken.060
+    3300046: Wooden_Crate_Broken.061
+    3300048: Wooden_Crate_Broken.062
+    3300050: Wooden_Crate_Broken.063
+    3300052: Wooden_Crate_Broken.064
+    3300054: Wooden_Crate_Broken.065
+    3300056: Wooden_Crate_Broken.066
+    3300058: Wooden_Crate_Broken.067
+    3300060: Wooden_Crate_Broken.073
+    3300062: Wooden_Crate_Broken.074
+    3300064: Wooden_Crate_Broken.075
+    4300000: Wooden_Crate_Broken.075
+    4300002: Wooden_Crate_Broken.074
+    4300004: Wooden_Crate_Broken.073
+    4300006: Wooden_Crate_Broken.067
+    4300008: Wooden_Crate_Broken.066
+    4300010: Wooden_Crate_Broken.065
+    4300012: Wooden_Crate_Broken.064
+    4300014: Wooden_Crate_Broken.063
+    4300016: Wooden_Crate_Broken.062
+    4300018: Wooden_Crate_Broken.061
+    4300020: Wooden_Crate_Broken.060
+    4300022: Wooden_Crate_Broken.059
+    4300024: Wooden_Crate_Broken.058
+    4300026: Wooden_Crate_Broken.057
+    4300028: Wooden_Crate_Broken.056
+    4300030: Wooden_Crate_Broken.055
+    4300032: Wooden_Crate_Broken.054
+    4300034: Wooden_Crate_Broken.053
+    4300036: Wooden_Crate_Broken.052
+    4300038: Wooden_Crate_Broken.051
+    4300040: Wooden_Crate_Broken.050
+    4300042: Wooden_Crate_Broken.049
+    4300044: Wooden_Crate_Broken.048
+    4300046: Wooden_Crate_Broken.047
+    4300048: Wooden_Crate_Broken.046
+    4300050: Wooden_Crate_Broken.045
+    4300052: Wooden_Crate_Broken.044
+    4300054: Wooden_Crate_Broken.043
+    4300056: Wooden_Crate_Broken.042
+    4300058: Wooden_Crate_Broken.041
+    4300060: Wooden_Crate_Broken.040
+    4300062: Wooden_Crate_Broken.039
+    4300064: Wooden_Crate_Broken.038
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
